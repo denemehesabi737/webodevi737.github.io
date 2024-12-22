@@ -72,6 +72,18 @@ body {
     opacity: 0;
     animation: fadeIn 1.5s ease-out forwards;
   }
+
+  .hero2 {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url('https://iso.500px.com/wp-content/uploads/2016/06/19b-final-after.jpg') no-repeat center center/cover;
+    text-align: center;
+    opacity: 0;
+    animation: fadeIn 1.5s ease-out forwards;
+  }
   
   .hero h1 {
     font-size: 3rem;
